@@ -3,6 +3,7 @@
     "version": "0.3",
     "description": "PHP SDK for Crypto Payment Gateways",
     "type": "library",
+    "minimum-stability": "stable"
     "autoload": {
         "psr-4": {
             "Adamantic\\CryptoPayments\\": "src/Adamantic/CryptoPayments"
