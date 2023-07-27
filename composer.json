@@ -1,5 +1,5 @@
 {
-    "name": "adamantic/crypto-payments-php",
+    "name": "coinbar/crypto-payments-php",
     "version": "0.3",
     "description": "PHP SDK for Crypto Payment Gateways",
     "type": "library",
